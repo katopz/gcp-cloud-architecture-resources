@@ -61,7 +61,7 @@ Our last successful game did not scale well with our previous cloud provider, re
 - Services are deployed redundantly across multiple regions in the US and Europe.
 - Only frontend services are exposed on the public internet.
 - They can provide a single frontend IP for their fleet of services.
-- Deployment artifacts are immutable. Which set of products should they use?
+- Deployment artifacts are immutable. Which set of products should they use?  
 
 - [ ] A. Google Cloud Storage, Google Cloud Dataflow, Google Compute Engine
 - [ ] B. Google Cloud Storage, Google App Engine, Google Network Load Balancer
