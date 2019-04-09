@@ -95,3 +95,11 @@ Our last successful game did not scale well with our previous cloud provider, re
 - [ ] C. Cloud SQL, Cloud Storage, Cloud Pub/Sub, and Cloud Dataflow
 - [ ] D. Cloud Dataproc, Cloud Pub/Sub, Cloud SQL, and Cloud Dataflow
 - [ ] E. Cloud Pub/Sub, Compute Engine, Cloud Storage, and Cloud Dataproc
+
+---
+# References
+> https://cloud.google.com/solutions/mobile/mobile-gaming-analysis-telemetry
+#### Figure 1: Game telemetry reference architecture
+![Figure 1: Game telemetry reference architecture](https://cloud.google.com/solutions/mobile/images/telemetry-01-reference-architecture.png)
+#### Figure 2: Real-time processing of events from game clients and game servers
+![Figure 2: Real-time processing of events from game clients and game servers](https://cloud.google.com/solutions/mobile/images/telemetry-02-real-time-event-processing.png)
