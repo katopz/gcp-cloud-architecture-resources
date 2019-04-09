@@ -62,7 +62,7 @@ Our last successful game did not scale well with our previous cloud provider, re
 - Only frontend services are exposed on the public internet.
 - They can provide a single frontend IP for their fleet of services.
 - Deployment artifacts are immutable. Which set of products should they use?  
-
+> 
 - [ ] A. Google Cloud Storage, Google Cloud Dataflow, Google Compute Engine
 - [ ] B. Google Cloud Storage, Google App Engine, Google Network Load Balancer
 - [x] **C. Google Container Registry, Google Container Engine, Google HTTP(s) Load Balancer**
