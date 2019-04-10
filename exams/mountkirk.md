@@ -98,7 +98,8 @@ Mountkirk Games wants to set up a continuous delivery pipeline. Their architectu
 > A
 ---
 ## Question 6
-#### For this question, refer to the Mountkirk Games case study. Mountkirk Games wants to set up a real-time analytics platform for their new game. The new platform must meet their technical requirements. Which combination of Google technologies will meet all of their requirements?
+#### For this question, refer to the Mountkirk Games case study. 
+Mountkirk Games wants to set up a real-time analytics platform for their new game. The new platform must meet their technical requirements. Which combination of Google technologies will meet all of their requirements?
 
 - [ ] A. Container Engine, Cloud Pub/Sub, and Cloud SQL
 - [ ] B. Cloud Dataflow, Cloud Storage, Cloud Pub/Sub, and BigQuery
