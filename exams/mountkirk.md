@@ -74,6 +74,7 @@ Mountkirk Games wants to set up a continuous delivery pipeline. Their architectu
 - [ ] B. Google Cloud Storage, Google App Engine, Google Network Load Balancer
 - [ ] C. Google Container Registry, Google Container Engine, Google HTTP(s) Load Balancer
 - [ ] D. Google Cloud Functions, Google Cloud Pub/Sub, Google Cloud Deployment Manager
+
 > C
 ---
 ## Question 4
