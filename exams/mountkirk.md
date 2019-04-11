@@ -115,3 +115,7 @@ Mountkirk Games wants to set up a real-time analytics platform for their new gam
 ![Figure 1: Game telemetry reference architecture](https://cloud.google.com/solutions/mobile/images/telemetry-01-reference-architecture.png)
 #### Figure 2: Real-time processing of events from game clients and game servers
 ![Figure 2: Real-time processing of events from game clients and game servers](https://cloud.google.com/solutions/mobile/images/telemetry-02-real-time-event-processing.png)
+
+---
+# Compilation
+![](./gcp-exams-mountkirk.png)
