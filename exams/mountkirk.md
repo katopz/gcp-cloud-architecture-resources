@@ -90,7 +90,8 @@ C. Google Container Registry, Google Container Engine, Google HTTP(s) Load Balan
 </b></details>
 ---
 ## Question 4
-#### For this question, refer to the Mountkirk Games case study. Mountkirk Games' gaming servers are not automatically scaling properly. Last month, they rolled out a new feature, which suddenly became very popular. A record number of users are trying to use the service, but many of them are getting 503 errors and very slow response times. What should they investigate first?
+#### For this question, refer to the Mountkirk Games case study.
+Mountkirk Games' gaming servers are not automatically scaling properly. Last month, they rolled out a new feature, which suddenly became very popular. A record number of users are trying to use the service, but many of them are getting 503 errors and very slow response times. What should they investigate first?
 
 - [ ] A. Verify that the database is online.
 - [ ] B. Verify that the project quota hasn't been exceeded.
@@ -104,7 +105,8 @@ A. Verify that the database is online.
 </b></details>
 ---
 ## Question 5
-#### For this question, refer to the Mountkirk Games case study. Mountkirk Games needs to create a repeatable and configurable mechanism for deploying isolated application environments. Developers and testers can access each other's environments and resources, but they cannot access staging or production resources. The staging environment needs access to some services from production. What should you do to isolate development environments from staging and production?
+#### For this question, refer to the Mountkirk Games case study.
+Mountkirk Games needs to create a repeatable and configurable mechanism for deploying isolated application environments. Developers and testers can access each other's environments and resources, but they cannot access staging or production resources. The staging environment needs access to some services from production. What should you do to isolate development environments from staging and production?
 
 - [ ] A. Create a project for development and test and another for staging and production.
 - [ ] B. Create a network for development and test and another for staging and production.
