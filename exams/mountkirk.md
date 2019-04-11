@@ -49,7 +49,11 @@ Mountkirk Games wants you to design their new testing strategy. How should the t
 - [ ] C. Tests should be applied after the release is in the production environment.
 - [ ] D. Tests should include directly testing the Google Cloud Platform (GCP) infrastructure.
 
-> C
+<details><summary>ANSWER</summary><b>
+
+C. Tests should be applied after the release is in the production environment.
+
+</b></details>
 ---
 ## Question 2
 #### For this question, refer to the Mountkirk Games case study
@@ -60,7 +64,11 @@ Mountkirk Games has deployed their new backend on Google Cloud Platform (GCP). Y
 - [ ] C. Build stress tests into each component of your application using resources internal to GCP to simulate load.
 - [ ] D. Create a set of static environments in GCP to test different levels of load for example, high, medium, and low.
 
-> B
+<details><summary>ANSWER</summary><b>
+
+B. Use the existing infrastructure to test the GCP-based backend at scale.
+
+</b></details>
 ---
 ## Question 3
 #### For this question, refer to the Mountkirk Games case study.
@@ -75,7 +83,11 @@ Mountkirk Games wants to set up a continuous delivery pipeline. Their architectu
 - [ ] C. Google Container Registry, Google Container Engine, Google HTTP(s) Load Balancer
 - [ ] D. Google Cloud Functions, Google Cloud Pub/Sub, Google Cloud Deployment Manager
 
-> C
+<details><summary>ANSWER</summary><b>
+
+C. Google Container Registry, Google Container Engine, Google HTTP(s) Load Balancer
+
+</b></details>
 ---
 ## Question 4
 #### For this question, refer to the Mountkirk Games case study. Mountkirk Games' gaming servers are not automatically scaling properly. Last month, they rolled out a new feature, which suddenly became very popular. A record number of users are trying to use the service, but many of them are getting 503 errors and very slow response times. What should they investigate first?
@@ -85,7 +97,11 @@ Mountkirk Games wants to set up a continuous delivery pipeline. Their architectu
 - [ ] C. Verify that the new feature code did not introduce any performance bugs.
 - [ ] D. Verify that the load-testing team is not running their tool against production.
 
-> A
+<details><summary>ANSWER</summary><b>
+
+A. Verify that the database is online.
+
+</b></details>
 ---
 ## Question 5
 #### For this question, refer to the Mountkirk Games case study. Mountkirk Games needs to create a repeatable and configurable mechanism for deploying isolated application environments. Developers and testers can access each other's environments and resources, but they cannot access staging or production resources. The staging environment needs access to some services from production. What should you do to isolate development environments from staging and production?
@@ -95,7 +111,11 @@ Mountkirk Games wants to set up a continuous delivery pipeline. Their architectu
 - [ ] C. Create one subnetwork for development and another for staging and production.
 - [ ] D. Create one project for development, a second for staging and a third for production.
 
-> A
+<details><summary>ANSWER</summary><b>
+
+A. Create a project for development and test and another for staging and production.
+
+</b></details>
 ---
 ## Question 6
 #### For this question, refer to the Mountkirk Games case study. 
@@ -107,7 +127,11 @@ Mountkirk Games wants to set up a real-time analytics platform for their new gam
 - [ ] D. Cloud Dataproc, Cloud Pub/Sub, Cloud SQL, and Cloud Dataflow
 - [ ] E. Cloud Pub/Sub, Compute Engine, Cloud Storage, and Cloud Dataproc
 
-> B
+<details><summary>ANSWER</summary><b>
+
+B. Cloud Dataflow, Cloud Storage, Cloud Pub/Sub, and BigQuery
+
+</b></details>
 ---
 # References
 > https://cloud.google.com/solutions/mobile/mobile-gaming-analysis-telemetry
